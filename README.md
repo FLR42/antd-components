@@ -1,4 +1,4 @@
-# antd-components
+# Ant Design Extra Components
 
 > Extra React components built with the awesome Ant Design library.
 
